@@ -6,10 +6,3 @@
 
 🔮 I am also a CTF player, a Cyber Security Enthusiast and a (in the works) penetration tester. I am always open to collaborate on projects and innovative open-source based ideas. P.S. I am actively looking for Cyber Security Internships.
 
-.
-
-.
-
-.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&color=00F7E0&size=16&multiline=true&width=500&lines=%22We'll+see+more+with+our+eyes+closed%22)](https://git.io/typing-svg)
