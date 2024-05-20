@@ -1,6 +1,6 @@
 <h1 align="center">Hey its Maxx this side</h1>
 <h3 align="center">I am an 21 year old CTF Player and open-source developer</h3>
-<img align="right" alt="code" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
+<img align="center" alt="code" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fubuki-9&label=Profile%20views&color=0e75b6&style=flat" alt="fubuki-9" /> </p>
 
