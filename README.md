@@ -1,3 +1,4 @@
+
 ## Hi, I'm Maxx
 
   [<img src="https://img.icons8.com/color/48/000000/discord.png" width="3.5%"/>](https://www.discordapp.com/users/834356860327821313)
@@ -9,7 +10,7 @@ A Cybersecurity Enthusiast and UI/UX Developer with skills in Reverse Engineerin
 - 🔭 At the moment im spending a lot of time developing gold farming / botting scripts & plugins
 - 🌱 I’m currently learning everything 
 - 👯 Always looking to collaborate with others 
-- [📚](https://infiniteorbit.live) My Website
+- [📚](https://infiniteorbit.live) Click on it to visit my website.
 
 ----
 
@@ -18,8 +19,3 @@ A Cybersecurity Enthusiast and UI/UX Developer with skills in Reverse Engineerin
 
 <p align="center">
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-white.png" alt="Buy Me A Coffee" height="40" width="170" ></a>
-
-<!-- Feel free to reach out and introduce yourself :D-->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://www.discordapp.com/users/834356860327821313">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 </em>
-
-</p>
